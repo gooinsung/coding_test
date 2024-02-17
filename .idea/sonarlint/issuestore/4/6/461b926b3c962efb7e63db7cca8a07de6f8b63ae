@@ -1,0 +1,7 @@
+
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(ßºú¤8‰ìÍ¹Û1
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³çéüÿÿÿÿ
+W
+java:S1172"5Remove these unused method parameters "strings", "n".(ˆ“¦ùÿÿÿÿ8ŒìÍ¹Û1
+L	java:S106"+Replace this use of System.out by a logger.(ƒ‚‚úÿÿÿÿ8ìÍ¹Û1
