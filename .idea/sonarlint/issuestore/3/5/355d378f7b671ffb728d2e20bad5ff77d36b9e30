@@ -1,10 +1,0 @@
-
-{
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(ίΊϊ¤8ΒªΡΉΫ1
-i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬ΊΨ8υ΅ΠΉΫ1
-W
-java:S1172"5Remove these unused method parameters "strings", "n".(“¦ωÿÿÿÿ8ΗªΡΉΫ1
-R
-java:S1854"5Remove this useless assignment to local variable "s".(ώ¬γί8ΘªΡΉΫ1
-C
-java:S1481"&Remove this unused "s" local variable.(ώ¬γί8ΙªΡΉΫ1
