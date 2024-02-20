@@ -13,3 +13,7 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+[
++src/insung/programers/level_1/no_12977.java,a\d\ad793d8cbddaa309019ed7f501428ac567d2ccb5
+[
++src/insung/programers/level_1/no_12921.java,3\4\34556aa7e1fbc84c47eeef137499e891830f2d57
