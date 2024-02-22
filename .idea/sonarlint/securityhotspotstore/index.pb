@@ -17,3 +17,13 @@ S
 +src/insung/programers/level_1/no_12977.java,a\d\ad793d8cbddaa309019ed7f501428ac567d2ccb5
 [
 +src/insung/programers/level_1/no_12921.java,3\4\34556aa7e1fbc84c47eeef137499e891830f2d57
+[
++src/insung/programers/level_1/no_42889.java,0\5\05c1f848ab285fe57dea0097f17b04e31ff58bcb
+[
++src/insung/programers/level_1/no_77484.java,e\5\e51f1a17ee45a8ea0184797a2bc0575e6d7c6d49
+\
+,src/insung/programers/level_1/no_161989.java,b\7\b7e4b947e6cb558cdeb944b1de1e8293399db466
+[
++src/insung/programers/level_1/no_17682.java,d\d\dde7cce17ce475afb1c20d588056e306e62ff7af
+[
++src/insung/programers/level_1/no_42862.java,5\6\563f527bfe57beadcf1f13b0c441d902a275e96d
