@@ -1,0 +1,7 @@
+
+9
+java:S1643"Use a StringBuilder instead.(”Òğ­8Ìµı†İ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶ÀŒæ8Íµı†İ1
+G	java:S106"+Replace this use of System.out by a logger.(ÒÎš8È¶ı†İ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÒÙí8É¶ı†İ1

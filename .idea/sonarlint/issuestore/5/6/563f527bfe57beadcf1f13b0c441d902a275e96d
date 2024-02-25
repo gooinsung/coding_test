@@ -1,0 +1,25 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ªŽÏ§øÿÿÿÿ8Ý¨¾‡Ý1
+Q
+java:S1066!"/Merge this if statement with the enclosing one.(ê¦Û”þÿÿÿÿ8ÉÇÃ‡Ý1
+L
+java:S1066)"/Merge this if statement with the enclosing one.(—åÙî8ÉÇÃ‡Ý1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úè¸øüÿÿÿÿ8Ê˜»‡Ý1
+J
+java:S5411!"(Use a primitive boolean expression here.(ê¦Û”þÿÿÿÿ8ÊÇÃ‡Ý1
+E
+java:S5411)"(Use a primitive boolean expression here.(—åÙî8ÊÇÃ‡Ý1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ýöà´8¿™»‡Ý1
+j
+java:S2175 "HA "Map<Integer, Boolean>" cannot contain a "String" in a "Integer" type.(šÎÃºüÿÿÿÿ8Á™»‡Ý1
+j
+java:S2175!"HA "Map<Integer, Boolean>" cannot contain a "String" in a "Integer" type.(ê¦Û”þÿÿÿÿ8ÔÇÃ‡Ý1
+e
+java:S2175#"HA "Map<Integer, Boolean>" cannot contain a "String" in a "Integer" type.(Ýåñù8ÔÇÃ‡Ý1
+e
+java:S2175("HA "Map<Integer, Boolean>" cannot contain a "String" in a "Integer" type.(ìšâ÷8ÕÇÃ‡Ý1
+e
+java:S2175)"HA "Map<Integer, Boolean>" cannot contain a "String" in a "Integer" type.(—åÙî8•ßæ‡Ý1
+j
+java:S2175+"HA "Map<Integer, Boolean>" cannot contain a "String" in a "Integer" type.(ÛÀÌÖÿÿÿÿÿ8ÕÇÃ‡Ý1

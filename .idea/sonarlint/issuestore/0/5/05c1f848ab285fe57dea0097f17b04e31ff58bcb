@@ -1,0 +1,8 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üõã8–€‡àÜ1
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»™ÃÊ8–€‡àÜ1
+T
+java:S3518!"7Make sure "a" can't be zero before doing this division.(Ûª–É8¤€‡àÜ1
+W
+java:S1854":Remove this useless assignment to local variable "answer".(µ™ä‚8§€‡àÜ1
+G	java:S106$"+Replace this use of System.out by a logger.(µˆœÑ8¨€‡àÜ1
