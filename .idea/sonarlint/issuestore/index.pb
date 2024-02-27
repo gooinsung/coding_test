@@ -83,3 +83,5 @@ Q.idea/sonarlint/securityhotspotstore/b/7/b7e4b947e6cb558cdeb944b1de1e8293399db4
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
 Å
 Q.idea/sonarlint/securityhotspotstore/d/c/dcd0f105e634d3739cc0e46a91daf61d05271630,0\f\0fcf7fb2c5d8f6c61b16e658d25272ad32b3df96
+\
+,src/insung/programers/level_1/no_160586.java,d\3\d3a9a30946f62daed261696c3de9b65c86b21763
