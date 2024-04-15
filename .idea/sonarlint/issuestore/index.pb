@@ -87,3 +87,7 @@ O
 src/insung/inflearn/no_3_5.java,0\4\046e0413658c95b3cf975a1a52ba180177985300
 O
 src/insung/inflearn/no_3_8.java,1\4\14dc9f687cdaeba3232aa02b3b5a584882a696e5
+[
++src/insung/programers/level_2/no_12939.java,2\0\204ba957d5f7cce0407152d538c711ac269e1f2d
+[
++src/insung/programers/level_2/no_12909.java,3\1\31b1b14f4a169b46a25510f00a4834dc299b7a54
