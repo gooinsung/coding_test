@@ -91,3 +91,7 @@ O
 +src/insung/programers/level_2/no_12939.java,2\0\204ba957d5f7cce0407152d538c711ac269e1f2d
 [
 +src/insung/programers/level_2/no_12909.java,3\1\31b1b14f4a169b46a25510f00a4834dc299b7a54
+[
++src/insung/programers/level_2/no_12941.java,0\d\0d4638ae84eeead25ff293aec0f044d8d816cc46
+[
++src/insung/programers/level_2/no_12951.java,1\b\1b40cf7c5124e316ce3756ece8c9009cf273680c
