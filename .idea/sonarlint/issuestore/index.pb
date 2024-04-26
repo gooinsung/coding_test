@@ -101,3 +101,11 @@ O
 +src/insung/programers/level_2/no_12945.java,0\2\02c6c535ac3a853f1eb699648d46c3b18d8dac18
 [
 +src/insung/programers/level_2/no_12973.java,e\0\e079dc9511d221cfe4e4000c8123db80d4082816
+R
+"src/insung/test/test_04_20_01.java,5\3\531cea41d64051c64cf78091ec31219ac87fa505
+R
+"src/insung/test/test_04_20_02.java,0\d\0d74c63bff84a6c57c0a4350e53d53f879e0f26d
+[
++src/insung/programers/level_2/no_64065.java,e\f\ef1a9a5391e5c4bb7390f26a8df2bdb315fbcffc
+[
++src/insung/programers/level_2/no_42842.java,f\0\f0d4823a3a8ef99b4c976ba90669cd7889584b5c
