@@ -115,3 +115,13 @@ R
 +src/insung/programers/level_2/no_12980.java,2\a\2acdb8ab30fb17df9eab51e20ac5a9384a1e7968
 [
 +src/insung/programers/level_2/no_12081.java,c\f\cf71b340717ea4dc11692a771b87589d0bcb6498
+[
++src/insung/programers/level_2/no_12985.java,9\c\9cd3731425540bead6fbd2892cad1de3c2fec176
+[
++src/insung/programers/level_2/no_42885.java,7\6\76855c85d2941c7c4424ec00f0e4f0a3a3a6b7bf
+[
++src/insung/programers/level_2/no_12914.java,c\3\c391f9b5691dcbfc3bacc3bfbd531b1098377edb
+\
+,src/insung/programers/level_2/no_138476.java,3\5\3556954962614d8233819e8c5547f10eddd334d0
+\
+,src/insung/programers/level_2/no_131701.java,b\8\b8bdf7e01f7a28216bf1750cefae08f4580f65e2
