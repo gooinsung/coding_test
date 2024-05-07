@@ -139,3 +139,7 @@ R
 +src/insung/programers/level_2/no_42578.java,8\6\867e574d0da37618c1f5ad1727aba3734a2eea56
 [
 +src/insung/programers/level_2/no_42586.java,3\2\32efb0e1794a7af196bdb744c9cd5659ddcc1fcd
+[
++src/insung/programers/level_2/no_42587.java,6\1\61072214f292293e106e135cd9f557f92850f02c
+[
++src/insung/programers/level_2/no_87946.java,e\1\e10abd6b60b4b5ddadf5d227092890b892e6da6b
